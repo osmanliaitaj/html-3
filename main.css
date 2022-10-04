@@ -1,0 +1,31 @@
+ body{ 
+    font-family: 'Roboto', sans-serif;
+ }                      
+            
+ .header{ 
+    background-color: #636e72;
+ }
+  
+
+.logo{ 
+     
+    width: 250px;  
+
+} 
+ .logo img{ 
+    width: 100%;
+ } 
+  
+ a{ 
+    color: white; 
+    text-decoration: none;
+ } 
+  
+ .header{
+      display: flex; 
+      justify-content: space-between; 
+      align-items: center;
+
+ } 
+
+ 
